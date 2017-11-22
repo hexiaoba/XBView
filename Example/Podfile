@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'XBView_Example' do
+  pod 'XBView', :path => '../'
+
+  target 'XBView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
