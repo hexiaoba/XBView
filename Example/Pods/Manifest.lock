@@ -1,0 +1,16 @@
+PODS:
+  - XBView (0.1.0)
+
+DEPENDENCIES:
+  - XBView (from `../`)
+
+EXTERNAL SOURCES:
+  XBView:
+    :path: ../
+
+SPEC CHECKSUMS:
+  XBView: 111fdac7f15194f6f21bec1a7de7d4ace3ba6d94
+
+PODFILE CHECKSUM: 7f09ad44f7009eb130687cd1ac68157f34325ba0
+
+COCOAPODS: 1.2.1

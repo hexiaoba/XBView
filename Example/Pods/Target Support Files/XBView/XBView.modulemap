@@ -1,0 +1,6 @@
+framework module XBView {
+  umbrella header "XBView-umbrella.h"
+
+  export *
+  module * { export * }
+}

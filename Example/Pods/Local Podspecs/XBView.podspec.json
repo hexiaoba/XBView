@@ -1,0 +1,22 @@
+{
+  "name": "XBView",
+  "version": "0.1.0",
+  "summary": "A short description of XBView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/bubiqudong/XBView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "bubiqudong": "hkn35135@163.com"
+  },
+  "source": {
+    "git": "https://github.com/bubiqudong/XBView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "XBView/Classes/**/*"
+}
